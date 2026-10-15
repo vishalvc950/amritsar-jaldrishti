@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="JalDrishti — Amritsar Urban Flood Warning System">
+  <rect width="1200" height="320" fill="#0B2E5B"/>
+  <rect y="0" width="1200" height="8" fill="#FF9933"/>
+  <rect y="8" width="1200" height="4" fill="#FFFFFF"/>
+  <rect y="12" width="1200" height="8" fill="#138808"/>
+
+  <g transform="translate(80,88)">
+    <circle cx="52" cy="52" r="50" fill="none" stroke="#FF9933" stroke-width="4"/>
+    <path d="M52 18c11 16.5 19 25 19 33.5a19 19 0 0 1-38 0C33 43 41 34.5 52 18z" fill="#FF9933"/>
+    <path d="M34 60c7-4.5 29-4.5 36 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M37 68c5.5-3.5 21.5-3.5 27 0" stroke="rgba(255,255,255,.7)" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <text x="230" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#FFFFFF">JalDrishti</text>
+  <text x="232" y="176" font-family="Georgia, serif" font-size="26" fill="#FF9933" letter-spacing="6">AMRITSAR URBAN FLOOD WARNING SYSTEM</text>
+
+  <line x1="80" y1="212" x2="1120" y2="212" stroke="rgba(255,255,255,.25)" stroke-width="1"/>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="20" fill="#B7C6DE">
+    <text x="80" y="256">Open-Meteo · IMD colour thresholds · OpenStreetMap · RainViewer</text>
+    <text x="80" y="290" fill="#8FA2BD" font-size="17">Live in your browser · refreshed every 10 minutes · English / हिंदी</text>
+  </g>
+</svg>
